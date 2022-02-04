@@ -1,7 +1,7 @@
 # Run Westend
 
 ###
-Get polkadot binaries from https://github.com/paritytech/polkadot/releases, and save them in the root directory. The file should be called `polkadot`
+Go to https://github.com/paritytech/polkadot/releases and download a file called polkadot from the latest release (assets section). Save the file into the run-westend directory. Please, be ensure the file is called `polkadot`.
 
 ### Build image
 
