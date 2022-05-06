@@ -1,4 +1,4 @@
-FROM phusion/baseimage:18.04-1.0.0
+FROM ubuntu:20.04
 
 WORKDIR /app
 
